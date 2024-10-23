@@ -48,8 +48,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-  </a>
+    <img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django" width="40" height="40"/>
+</a>
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Machine Learning" width="40" height="40"/>
   </a>
