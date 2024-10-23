@@ -20,9 +20,10 @@
   <a href="https://www.linkedin.com/in/rohit-chavan-0b2b06249/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/chavanrohitp45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
-  </a>
+  <a href="https://github.com/chavanrohitp45" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+    alt="GitHub" height="30" width="40" />
+</a>
 </p>
 
 
