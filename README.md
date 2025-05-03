@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
 <h3 align="center">
-  Passionate Developer Focused on Python, FastAPI,AngularJS , Java, HTML & CSS, Django, AI/ML, and SQL
+  Passionate Developer Focused on Python, FastAPI,AngularJS , Java, HTML & CSS, Django, AI/ML, and PostgreSQL
 </h3>
 
 <!-- Coding GIF Image -->
