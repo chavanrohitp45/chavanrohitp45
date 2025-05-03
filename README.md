@@ -11,8 +11,8 @@
 ---
 
 ### 🌱 Currently Exploring
-- **Python**, **ReactJS**, **NodeJS**, **ExpressJS**, **Java**, **HTML & CSS**  
-- **Django**, **Machine Learning**, **Artificial Intelligence**, **SQL**
+- **Python**, **FastAPI**, **AngularJS**, **Java**, **HTML & CSS**  
+- **Django**, **Machine Learning**, **Artificial Intelligence**, **PostgreSQL**
 
 ### 📫 How to Reach Me
 - Email: **chavanrohitp45@gmail.com**
@@ -36,15 +36,12 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/>
-  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+</a>
+  <a href="https://angularjs.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="AngularJS" width="40" height="40"/>
+</a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
