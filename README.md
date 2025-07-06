@@ -12,7 +12,7 @@
 
 ### 🌱 Currently Exploring
 - **Python**, **FastAPI**,,**ReactJS**, **Java** 
-- **Django**, **Machine Learning**, **Artificial Intelligence**, **PostgreSQL**
+- **Django**, **Machine Learning**, **Artificial Intelligence**, **PostgreSQL**, **MongoDB**
 
 ### 📫 How to Reach Me
 - Email: **chavanrohitp45@gmail.com**
@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="80" height="80"/>
 </a>
   <a href="https://react.dev/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40" />
@@ -49,9 +49,6 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/>
   </a>
@@ -59,6 +56,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40" />
 </a>
   <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="40" height="40" />
+  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="80" height="80" />
 </a>
 </p>
