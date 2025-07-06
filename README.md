@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
 <h3 align="center">
-  Passionate Developer Focused on Python, FastAPI,AngularJS , Java, HTML & CSS, Django, AI/ML, and PostgreSQL
+  Passionate Developer Focused on Python, FastAPI,ReactJS , Java,  Django, AI/ML,MongoDB and PostgreSQL
 </h3>
 
 <!-- Coding GIF Image -->
@@ -56,9 +56,9 @@
     <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40" />
 </a>
   <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="100" />
+  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="40" height="40" />
 </a>
 </p>
