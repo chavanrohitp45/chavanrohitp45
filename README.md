@@ -11,7 +11,7 @@
 ---
 
 ### 🌱 Currently Exploring
-- **Python**, **FastAPI**, **AngularJS**, **Java**, **HTML & CSS**  
+- **Python**, **FastAPI**,,**ReactJS**, **Java** 
 - **Django**, **Machine Learning**, **Artificial Intelligence**, **PostgreSQL**
 
 ### 📫 How to Reach Me
@@ -39,17 +39,12 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
 </a>
-  <a href="https://angularjs.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="AngularJS" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40" />
 </a>
+
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django" width="40" height="40"/>
@@ -60,7 +55,10 @@
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="100" />
+</a>
+  <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="100" />
+</a>
 </p>
