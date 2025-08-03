@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Chavan</h1>
 <h3 align="center">
-  Passionate Developer Focused on Python, FastAPI,ReactJS , Java,  Django, AI/ML,MongoDB and PostgreSQL
+  Passionate Developer Focused on Python, FastAPI, ReactJS , Java,  Django, SpringBoot, AI/ML,MongoDB and PostgreSQL
 </h3>
 
 <!-- Coding GIF Image -->
@@ -11,7 +11,7 @@
 ---
 
 ### 🌱 Currently Exploring
-- **Python**, **FastAPI**,,**ReactJS**, **Java** 
+- **Python**, **FastAPI**,**ReactJS**, **Java** , **SpringBoot**
 - **Django**, **Machine Learning**, **Artificial Intelligence**, **PostgreSQL**, **MongoDB**
 
 ### 📫 How to Reach Me
@@ -46,6 +46,10 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
+
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django" width="40" height="40"/>
   </a>
